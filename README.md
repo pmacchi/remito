@@ -4,15 +4,15 @@
 Una plantilla responsive y lista para imprimir, diseñada en HTML y CSS puro, que permite generar remitos de manera profesional, editable y multiplataforma.
 
 ✨ Características principales
-# Tamaño de hoja configurado para impresión en hoja tamaño carta (Remitos).
+ Tamaño de hoja configurado para impresión en hoja tamaño carta (Remitos).
 
-# Inputs interactivos para completar datos antes de imprimir.
+ Inputs interactivos para completar datos antes de imprimir.
 
-# Campos: cliente, domicilio, IVA, CUIT, fecha, tabla de productos, transportista.
+ Campos: cliente, domicilio, IVA, CUIT, fecha, tabla de productos, transportista.
 
-# Compatible con cualquier navegador moderno.
+ Compatible con cualquier navegador moderno.
 
-# Oculta elementos decorativos al imprimir.
+ Oculta elementos decorativos al imprimir.
 
 🛠️ Tecnologías utilizadas
 HTML5
